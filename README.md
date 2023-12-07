@@ -12,7 +12,7 @@
 This document explains the topic for the project and the motivation for it. It also includes an overview of what deliverables are required.
 
 ## Rubric
-The rubric is a more detailed document specifying the criteria of the project. This wwill serve as the guide for the project. It specifies everything that needs to be included to meet spec and the required formatting.
+The rubric is a more detailed document specifying the criteria of the project. This will serve as the guide for the project. It specifies everything that needs to be included to meet spec and the required formatting.
 
 ## Data
 There is a link to the website where the student will be able to specify which region and which month they want temperature anomaly data for, and they can download it as a csv. 
@@ -24,6 +24,6 @@ This article published by NASA is a helpful overview of facts about climate chan
 This journal article uses different statistical time series methods to analyze global surface temperatures. It will not tell students exactly which models to use and how to use them, but it is a good starting point. 
 
 ## Example Code
-The code sample is an example of time series analysis of global temperature anomaly data. The student may use the same models in the code, but will have to use a dataset for a specifc region. 
+The code sample is an example of time series analysis of global temperature anomaly data. The student may use the same models in the code, but will have to use a different dataset for a specifc region. 
 
 
